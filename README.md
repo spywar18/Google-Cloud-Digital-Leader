@@ -1,6 +1,6 @@
-# Cloud Digital Leader Learning Path Quiz Solutions
+# Google Cloud Digital Leader Course - For GCP Beginner
 
-![Google Cloud](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.png)
+## Cloud Digital Leader Learning Path Quiz Solutions
 
 Welcome to the **Cloud Digital Leader Learning Path Quiz Solutions** repository! This repo contains all the quiz solutions for the Google Cloud Digital Leader Learning Path, helping you gain real-world, hands-on experience using Google Cloud technologies.
 
